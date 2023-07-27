@@ -8,12 +8,11 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Amey!]()
+# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Amey Desai!]()
 
 <br/>
 <div align="center">
 
-<a href=""><img align="left" alt="Amey | Twitter" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" draggable="false" /></a>
 
 <a href=""><img align="left" alt="Amey's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
