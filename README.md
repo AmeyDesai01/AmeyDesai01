@@ -14,16 +14,16 @@
 <div align="center">
 
 
-<a href=""><img align="left" alt="Amey's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/ameyeknathdesai/"><img align="left" alt="Amey's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
-<a href="">
+<a href="https://www.instagram.com/amey.desai01/">
   <img align="left" alt="Amey's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
   
-<a href="">
+<a href="https://github.com/AmeyDesai01">
   <img align="left" alt="Amey's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
 
-<a href="mailto:">
+<a href="mailto:ameyeknathdesai@gmail.com">
   <img align="left" alt="Amey's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
 
@@ -33,8 +33,15 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
 
-- 🏃‍♂️ I’m currently learning Full Stack Development.
-- 🎓 Pursuing my Master's in Computer Science
+- 🏃‍♂️ I’m currently pursuing Data science.
+- 🎓 Completed My Bachelor of Engineering (B.E) in Information Technology in the year 2023 from Mumbai University
+- 👨🏻‍💻 Proficient in data analysis, statistical modeling, and machine learning algorithms.
+- 🏅 Skilled in Python programming and utilizing libraries such as Pandas, NumPy, and Scikit-learn for data manipulation and analysis.
+- 🤝🏻 Familiarity with data visualization tools like Matplotlib and Seaborn to present data insights effectively.
+- 😇 Demonstrated problem-solving abilities and a keen eye for detail in identifying patterns and trends within data.
+- 💪🏻 Passionate about making a positive impact through data science and contributing to the growth and success of organizations.
+
+
 
 # 🧰 My Skills
 
