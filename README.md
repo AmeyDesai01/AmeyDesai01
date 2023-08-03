@@ -14,17 +14,17 @@
 <div align="center">
 
 
-<a href="https://www.linkedin.com/in/ameyeknathdesai/"><img align="left" alt="Amey's LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
+<a href="https://www.linkedin.com/in/ameyeknathdesai/"><img align="left" alt="Amey's LinkdeIN" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
 <a href="https://www.instagram.com/amey.desai01/">
-  <img align="left" alt="Amey's Instagram" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
+  <img align="left" alt="Amey's Instagram" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" draggable="false" /></a>
   
 <a href="https://github.com/AmeyDesai01">
-  <img align="left" alt="Amey's github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
+  <img align="left" alt="Amey's github" width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Github-Dark.svg" />
 </a>
 
 <a href="mailto:ameyeknathdesai@gmail.com">
-  <img align="left" alt="Amey's gmail" width="30px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
+  <img align="left" alt="Amey's gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
 </a>
 
 </div>
