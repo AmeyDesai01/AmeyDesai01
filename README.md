@@ -8,7 +8,7 @@
 
 </div>
 
-# Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">, I'm [Amey Desai!]()
+# Hey I'm [Amey Desai!]() <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px" height="40px">
 
 <br/>
 <div align="center">
